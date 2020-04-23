@@ -1,0 +1,2 @@
+# Funcional-CSharp-StringBuilderExtensions
+Funcional CSharp StringBuilderExtensions
